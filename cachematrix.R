@@ -1,4 +1,4 @@
-## The functions makeCacheMatrix and cacheSolve create a matrix and can cache its inverse. 
+## The functions--makeCacheMatrix and cacheSolve-- create a matrix and can cache its inverse. 
 ## 
 
 ## This function defines a matrix object and clears the cache of the previous values. 
